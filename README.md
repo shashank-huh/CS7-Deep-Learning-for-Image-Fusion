@@ -28,5 +28,4 @@ Follow the instructions below to set up and run the project.
 #### **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/yourusername/CS7-Deep-Learning-for-Image-Fusion.git
